@@ -113,7 +113,7 @@ audio {display:none;}
   left: 41.5%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -15%;
+  top: -20%;
   width: 80px;
 }
 
@@ -229,25 +229,25 @@ audio {display:none;}
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 40%;
+    left: 45%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 37%;
+    left: 45%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 32%;
+    left: 50%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 45%;
   }
 }
 
