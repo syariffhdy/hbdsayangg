@@ -19,7 +19,7 @@ audio {display:none;}
   position: relative;
   text-align: center;
   visibility: hidden;
-  width: 100vw;
+  width: 100%;
 }
 
 .container > div {
@@ -253,41 +253,41 @@ audio {display:none;}
 
 @media screen and (max-width: 500px) {
   .container {
-    width: 90%;
+    width: 100%;
   }
 @media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 50%;
+    left: 45%;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 667px)  and (-webkit-device-pixel-ratio : 2) {
 	.six .hat {
-    left: 50%;
+    left: 45%;
 	}
 }
 @media only screen and (device-width : 414px) and (device-height : 736px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 50%;
+    left: 45%;
   }
  }
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 50%;
+    left: 45%;
   }
 }
 @media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
 	.six .hat {
-    left: 50%;
+    left: 45%;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 50%;
+    left: 45%;
   }
 }
 @media only screen and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 50%;
+    left: 45%;
   }
 }
   .four .text-box {
