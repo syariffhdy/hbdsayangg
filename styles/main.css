@@ -257,19 +257,19 @@ audio {display:none;}
   }
 @media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 45%;
+    left: 46%;
     bottom: 30%;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 667px)  and (-webkit-device-pixel-ratio : 2) {
 	.six .hat {
-    left: 45%;
+    left: 46%;
 bottom: 30%;
 	}
 }
 @media only screen and (device-width : 414px) and (device-height : 736px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 45%;
+    left: 46%;
 		bottom: 30%;
   }
  }
@@ -280,19 +280,19 @@ bottom: 30%;
 }
 @media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
 	.six .hat {
-    left: 45%;
+    left: 46%;
 		bottom: 30%;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 45%;
+    left: 46%;
 		bottom: 30%;
   }
 }
 @media only screen and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 45%;
+    left: 46%;
 		bottom: 30%;
   }
 }
