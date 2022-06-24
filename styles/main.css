@@ -229,25 +229,25 @@ audio {display:none;}
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 45%;
+    left: 47%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 45%;
+    left: 47%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 50%;
+    left: 47%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 45%;
+    left: 47%;
   }
 }
 
@@ -275,9 +275,8 @@ bottom: 30%;
  }
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 45%;
-	  bottom: 30%;
-  }
+    left: 47%;
+	}
 }
 @media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
 	.six .hat {
