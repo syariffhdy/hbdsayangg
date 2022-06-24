@@ -5,9 +5,9 @@ window.addEventListener('load', () => {
     title: 'Do you want to play music in the background?',
     // text: "You won't be able to revert this!",
     icon: 'info',
-    timer: 2000,
-  showCancelButton: false,
-  showConfirmButton: false
+    showCancelButton: false,
+    confirmButtonColor: '#3085d6',
+    confirmButtonText: 'Yes'
   }).then((result) => {
     if (result.isConfirmed) {
       document.querySelector('.song').play();
