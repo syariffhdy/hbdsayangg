@@ -255,7 +255,41 @@ audio {display:none;}
   .container {
     width: 90%;
   }
-
+@media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
+	.six .hat {
+    left: 50%;
+  }
+}
+@media only screen and (device-width : 375px) and (device-height : 667px)  and (-webkit-device-pixel-ratio : 2) {
+	.six .hat {
+    left: 50%;
+	}
+}
+@media only screen and (device-width : 414px) and (device-height : 736px) and (-webkit-device-pixel-ratio : 3) {
+	.six .hat {
+    left: 50%;
+  }
+ }
+@media screen and (max-height: 850px) and (max-width: 450px) {
+  .six .hat {
+    left: 50%;
+  }
+}
+@media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
+	.six .hat {
+    left: 50%;
+  }
+}
+@media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
+	.six .hat {
+    left: 50%;
+  }
+}
+@media only screen and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 3) {
+	.six .hat {
+    left: 50%;
+  }
+}
   .four .text-box {
     width: 90%;
   }
