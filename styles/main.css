@@ -5,7 +5,7 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   margin: 0;
-  overflow:hidden;
+  overflow: hidden;
 }
 
 .song {
@@ -110,10 +110,10 @@ audio {display:none;}
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 50% !important; 
   position: absolute;
   /* transform: scale(0.1); */
-  top: -20%;
+  top: -35%;
   width: 80px;
 }
 
@@ -229,79 +229,72 @@ audio {display:none;}
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 47%;
+    left: 40% !important;
+    top: -35% !important;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 47%;
+    left: 40% !important;
+    top: -35% !important;
+	
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 47%;
+    left: 40% !important;
+    top: -35% !important;
   }
 }
-
-@media screen and (max-height: 850px) and (max-width: 450px) {
-  .six .hat {
-    left: 47%;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .container {
-    width: 100%;
-  }
 @media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 46%;
-	top: -16%;
-    bottom: 30%;
+    left: 40% !important;
+    top: -35% !important;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 667px)  and (-webkit-device-pixel-ratio : 2) {
 	.six .hat {
-    left: 46%;
-		top: -16%;
-bottom: 30%;
+    left: 40% !important;
+    top: -35% !important;
 	}
 }
 @media only screen and (device-width : 414px) and (device-height : 736px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 46%;
-		top: -16%;
-		bottom: 30%;
+    left: 40% !important;
+    top: -35% !important;
   }
  }
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 47%;
-	}
+    left: 40% !important;
+    top: -35% !important;
+  }
 }
 @media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
 	.six .hat {
-    left: 46%;
-		top: -16%;
-		bottom: 30%;
+    left: 40% !important;
+    top: -35% !important;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 46%;
-		top: -16%;
-		bottom: 30%;
+    left: 40% !important;
+    top: -35% !important;
   }
 }
 @media only screen and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 46%;
-		top: -16%;
-		bottom: 30%;
+    left: 40% !important ;
+    top: -35% !important;
   }
 }
+@media screen and (max-width: 500px) {
+  .container {
+    width: 100%;
+  }
+
   .four .text-box {
     width: 90%;
   }

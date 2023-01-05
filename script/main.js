@@ -1,6 +1,8 @@
+// trigger to play music in the background with sweetalert
+
 window.addEventListener('load', () => {
       Swal.fire({
-    title: 'Hallo Yay :) ',
+    title: 'Hallo Syaee :) ',
      text: "Press next button to continue",
     showCancelButton: false,
 	color: '#439cfb',
