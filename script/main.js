@@ -2,8 +2,8 @@
 
 window.addEventListener('load', () => {
       Swal.fire({
-    title: 'Hallo Syaee :) ',
-     text: "Press next button to continue",
+    title: 'Hallo Sayangg :) ',
+     text: "Pencet next yaa",
     showCancelButton: false,
 	color: '#439cfb',
     confirmButtonColor: '#439cfb',
