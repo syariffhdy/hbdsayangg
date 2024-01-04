@@ -245,49 +245,49 @@ audio {display:none;}
 @media screen and (max-height: 700px) {
   .six .hat {
     left: 40% !important;
-    top: -37% !important;
+    top: -33% !important;
   }
 }
 @media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
     left: 46% !important;
-    top: -37% !important;
+    top: -33% !important;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 667px)  and (-webkit-device-pixel-ratio : 2) {
 	.six .hat {
     left: 46% !important;
-    top: -37% !important;
+    top: -33% !important;
 	}
 }
 @media only screen and (device-width : 414px) and (device-height : 736px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
     left: 46% !important;
-    top: -37% !important;
+    top: -33% !important;
   }
  }
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
     left: 46% !important;
-    top: -37% !important;
+    top: -33% !important;
   }
 }
 @media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
 	.six .hat {
     left: 46% !important;
-    top: -37% !important;
+    top: -33% !important;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
     left: 46% !important;
-    top: -37% !important;
+    top: -33% !important;
   }
 }
 @media only screen and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
     left: 46% !important ;
-    top: -37% !important;
+    top: -33% !important;
   }
 }
 @media screen and (max-width: 500px) {
