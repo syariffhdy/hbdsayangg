@@ -229,14 +229,14 @@ audio {display:none;}
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
 	
   }
@@ -250,43 +250,43 @@ audio {display:none;}
 }
 @media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 667px)  and (-webkit-device-pixel-ratio : 2) {
 	.six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
 	}
 }
 @media only screen and (device-width : 414px) and (device-height : 736px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
   }
  }
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
   }
 }
 @media only screen  and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 2) { 
 	.six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
   }
 }
 @media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 40% !important;
+    left: 46% !important;
     top: -35% !important;
   }
 }
 @media only screen and (device-width : 414px) and (device-height : 896px) and (-webkit-device-pixel-ratio : 3) {
 	.six .hat {
-    left: 40% !important ;
+    left: 46% !important ;
     top: -35% !important;
   }
 }
